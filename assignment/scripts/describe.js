@@ -77,11 +77,13 @@ if (code > 250) {
 //then, we check if both isStudent is true and zip is greater than 80000 and console.log(`You're a student on the West Coast!`)
 // then, we check if isStudent is equal to 'false' and the age value is les than 30 and console.log('What are your hobbies?') 
 // then, we write another else if statement which checks if isStudent is eqaul to true and we console.log('Welcome to Prime!') 
-//then we write the code that we will excute, if all of the above situations are not met and we tell our javascript to console log.('How about the weather?')
+//then we write,  the code that we will excuted, if all of the above situations are not met and we tell our javascript to console log.('How about the weather?')
 
 // in this code : 'Welcome to Prime!' will be excuted because, the first if statement checks if both values are true, in this case only one is true,
-// then the second if needs one of the two values to be true, in this case none is true, then it champs to the 3rd code if the code is true, in this case the code is true and the console.log('Welcome to Prime!').
-// which means the the last 'else' code will not be excuted, since the javascript got the true value it was looking for.
+// then the second if needs one of the two values to be true, in this case none is true, 
+// then it champs to the 3rd  if statement and checks if its 'true', in this case the code is true and the console.log('Welcome to Prime!').
+// this means javascrpt will stop searching, since it got what it was looking for and will not check the last 'esle' statement in the code.
+//
 
 //CODE
 /*
