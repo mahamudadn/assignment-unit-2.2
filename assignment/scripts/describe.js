@@ -139,8 +139,7 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
-//FIX -- in the variable colorOne eqaul to red and colorTwo equal to blue. 
-// But in the instruction colorOne & colorTwo is : 'blue' & 'red', so they  should be blue and red respectively.
+//FIX -- colorOne and colorTwo should have values of 'blue' , 'red' respectively as per instruction. which in the code is interchanged. 
 //Also, in the if statement both colorOne and colorTwo should have the value of 'purple'. wich in this case we only have colorOne assigned to purple.
 // 
 
