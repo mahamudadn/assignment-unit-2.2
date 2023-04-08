@@ -156,9 +156,10 @@ if (mix === true) {
 // -- they are so we console.log 'throw away the food!'
 
 // FIX-- we create  avariable called temp and time and give a value 40 and 4 respectively.
-// in the instruction, the logical operrator we are suposed to use is &&,  which checks both opperators to be true.
+// We should change our logical operrator to  && instead of ||   which checks both opperators to be true.
 // In the code, || or is used, which checks either of the conditions to be true. in this case both are true and 
 // the console.log('throw away the food!') will be printed out.
+// The code is logicaly incorect, but console.log 'throw away the food!'  is still printed out.
 
 /*
 let temp = 40;
