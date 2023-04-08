@@ -26,11 +26,13 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// We make avariable called name and set its value as Dane.                                                                                                                                                                                                                                                           
+// We make avariable called 'name' and set its value as 'Dane'.                                                                                                                                                                                                                                                           
 // We check if name is equal to marry, then 
-// we console.log 'Hi Mary!'
-// other wise 
+// We console.log 'Hi Mary!'
+// Other wise 
 // we console.log ' How do you do?'
+// in this console.log 'How do you do?' will be printed out to the console, 
+// becouse 'name' is not equal to 'Mary'.
 
 //CODE
 /*
@@ -45,13 +47,14 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We create a varaible called secret, but we did'nt give a value.
+// We create a varaible called secret, but we left undefined.
 // we create another variable called code and we give avalue of 123. then,
-// we check if code === 123 and 
-// give variable secret avalue 'super'
-// give varaible code a new value which is 246. then 
-// we check if the value of code is greater than 250 and give varaible secret a new string value of 'duper' then,
-// we console.log(secret) ' which will print out the 'super' in the console.'
+// in the 'if statement' we check if code === 123 and 
+// give variable secret avalue 'super' and 
+// give varaible 'code' a new value which is  (123 * 2 = 246). then 
+// we check if the value of code is greater than 250 and give varaible secret a new string value of 'duper'. 
+// in this code, the console.log 'super', will be printed out in the console.
+
 
 //CODE
 /*
