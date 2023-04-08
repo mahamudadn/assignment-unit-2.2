@@ -175,9 +175,9 @@ if (temp > 39 || time >= 4) {
 // -- it is, so we console.log 'enter'.
 
 // FIX-- both variables are correct as per the instruction.
-// In the instruction it says we should check if 'age' is greater than or equal  'minAge' and console.log('enter').
-// But in the code its using 'minAge is less than or equal to age' which is other way around and console.log('no entry'), 
-// so, it should be chnged and console.log('enter') as per innstructed.
+// In the instruction it says we should check if 'age' is greater than or equal to 'minAge' and console.log('enter').
+// But in the code its using 'minAge' is less than or equal to 'age' which is other way around and console.log('no entry'), 
+// so, it should be changed and console.log('enter') as per innstructed.
 
 /*
 let age = 21;
