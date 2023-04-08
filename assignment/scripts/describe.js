@@ -78,13 +78,13 @@ if (code > 250) {
 // we create 2nd variable age and we gave a number value of 34.
 // then we create a 3rd variable with the name of zip and gave a number value of 55407. 
 //then, we check if both isStudent is true and zip is greater than 80000 and console.log(`You're a student on the West Coast!`)
-// then, we check if isStudent is equal to 'false' and the age value is les than 30 and console.log('What are your hobbies?') 
-// then, we write another else if statement which checks if isStudent is eqaul to true and we console.log('Welcome to Prime!') 
-//then we write,  the code that we will excuted, if all of the above situations are not met and we tell our javascript to console log.('How about the weather?')
+// also, we check if isStudent is equal to 'false' or the age value is les than 30 and console.log('What are your hobbies?') 
+// again, we write another else if statement, which checks if isStudent is eqaul to true and we console.log('Welcome to Prime!') 
+//then we write,  the  'else' code that we will be excuted, if all of the above situations are not met and we tell our javascript to console log.('How about the weather?')
 
-// in this code : 'Welcome to Prime!' will be excuted because, the first if statement checks if both values are true, in this case only one is true,
-// then the second if needs one of the two values to be true, in this case none is true, 
-// then it champs to the 3rd  if statement and checks if its 'true', in this case the code is true and the console.log('Welcome to Prime!').
+// in this code : the first if statement checks if both values are true, in this case only one is true, so its console.log will not be printed
+// then,  the second 'if else' needs one of the two values to be true, in this case none is true, so it will not be printed in the console.
+// then it champs to the 3rd  'if statement' and checks if its 'true', in this case the code is true and the console.log('Welcome to Prime!') will print out.
 // this means javascrpt will stop searching, since it got what it was looking for and will not check the last 'esle' statement in the code.
 //
 
