@@ -13,16 +13,16 @@
 // we console.log 'yes'.
 
 //CODE
-/*
-let number = 1;
+    /*
+    let number = 1;
 
-number++;
+    number++;
 
-if (number >= 2) {
-  console.log('yes');
-}
+    if (number >= 2) {
+      console.log('yes');
+    }
 
-*/
+    */
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
@@ -35,16 +35,16 @@ if (number >= 2) {
 // becouse 'name' is not equal to 'Mary'.
 
 //CODE
-/*
-let name = 'Dane';
+    /*
+    let name = 'Dane';
 
-if (name === 'Mary') {
-  console.log('Hi, Mary!');
-} else {
-  console.log('How do you do?');
-}
+    if (name === 'Mary') {
+      console.log('Hi, Mary!');
+    } else {
+      console.log('How do you do?');
+    }
 
-*/
+    */
 
 // 2. WRITE YOUR DESCRIPTION HERE
 // We create a varaible called secret, but we left undefined.
@@ -57,21 +57,21 @@ if (name === 'Mary') {
 
 
 //CODE
-/*
-let secret;
+    /*
+    let secret;
 
-let code = 123;
+    let code = 123;
 
-if(code === 123) {
-  secret = 'super';
-  code = code * 2;
-}
+    if(code === 123) {
+      secret = 'super';
+      code = code * 2;
+    }
 
-if (code > 250) {
-  secret = 'duper'
-}
+    if (code > 250) {
+      secret = 'duper'
+    }
 
-*/
+    */
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // we create avariable isStudent and  gave a bolean value which is 'true'
@@ -89,22 +89,22 @@ if (code > 250) {
 //
 
 //CODE
-/*
-let isStudent = true;
-let age = 34;
-let zip = 55407;
+    /*
+    let isStudent = true;
+    let age = 34;
+    let zip = 55407;
 
-if (isStudent === true && zip > 80000 ) {
-  console.log(`You're a student on the West Coast!`);
-} else if (isStudent === false || age < 30) {
-  console.log('What are your hobbies?');
-} else if (isStudent === true) {
-  console.log('Welcome to Prime!');
-} else {
-  console.log('How about the weather?')
-}
+    if (isStudent === true && zip > 80000 ) {
+      console.log(`You're a student on the West Coast!`);
+    } else if (isStudent === false || age < 30) {
+      console.log('What are your hobbies?');
+    } else if (isStudent === true) {
+      console.log('Welcome to Prime!');
+    } else {
+      console.log('How about the weather?')
+    }
 
-*/
+    */
 
 // REVERSE
 // Now, for questions 4-6, we'll give you a description and some code. 
@@ -120,36 +120,36 @@ if (isStudent === true && zip > 80000 ) {
 // -- it is, so we console.log 'yes'
 
 //CODE
-/*
-let number = 1;
+    /*
+    let number = 1;
 
 // FIX - number-- decrements number, but the instructions ask to increment. 
 // Should be number++.
 number--; 
 
-if (number >= 2) {
-  console.log('yes');
-}
+    if (number >= 2) {
+      console.log('yes');
+    }
 
-*/
+    */
 
 //4. We start with three variables -- colorOne is set to 'blue' and 
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
-/*
-let colorOne = 'red';
-let colorTwo = 'blue';
-let mix = true;
+    /*
+    let colorOne = 'red';
+    let colorTwo = 'blue';
+    let mix = true;
 
 //FIX -- colorOne and colorTwo should have values of 'blue' , 'red' respectively as per instruction. which in the code is interchanged. 
 //Also, in the if statement both colorOne and colorTwo should have the value of 'purple'. wich in this case we only have colorOne assigned to purple.
-// 
 
-if (mix === true) {
-  colorOne = 'purple';
-}
-*/
+
+    if (mix === true) {
+      colorOne = 'purple';
+    }
+    */
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
@@ -161,14 +161,14 @@ if (mix === true) {
 // the console.log('throw away the food!') will be printed out.
 // The code is logicaly incorect, but console.log 'throw away the food!'  is still printed out.
 
-/*
-let temp = 40;
-const time = 4;
+    /*
+    let temp = 40;
+    const time = 4;
 
-if (temp > 39 || time >= 4) {
-  console.log('throw away the food!');
-}
-*/
+    if (temp > 39 || time >= 4) {
+      console.log('throw away the food!');
+    }
+    */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
 // We check if age is greater than or equal to minAge 
@@ -180,13 +180,13 @@ if (temp > 39 || time >= 4) {
 // So, we should console.log('enter') as per innstructed.
 
 /*
-let age = 21;
-const minAge = 21;
+    let age = 21;
+    const minAge = 21;
 
-if(minAge <= age) {
-  console.log('no entry');
-} else {
-  console.log('enter');
-}
-*/
+    if(minAge <= age) {
+      console.log('no entry');
+    } else {
+      console.log('enter');
+    }
+    */
 
