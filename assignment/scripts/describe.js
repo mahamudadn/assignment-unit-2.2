@@ -176,7 +176,7 @@ number--;
 
 // FIX-- both variables are correct as per the instruction.
 // In the instruction it says we should check if 'age' is greater than or equal to 'minAge' and console.log('enter').
-// The code its using 'minAge' is less than or equal to 'age' which is logical the same as age >= minAge.  
+// The code its using 'minAge' is less than or equal to 'age' which is logicaly the same as age >= minAge.  
 // So, we should console.log('enter') as per innstructed.
 
 /*
